@@ -15,5 +15,5 @@ User register to futurn skill platfrom with ${Email} and ${Firsthname} and ${Las
     CommonKeywords.Wait until element is ready then input text      Locator=//input[@placeholder="ยืนยันรหัสผ่าน"]    Text=${SecoundPass}
     CommonKeywords.Wait unti element is ready then click element    Locator=//input[@name="consent"]
     CommonKeywords.Wait unti element is ready then click element    Locator=//button[text()="สมัครสมาชิก"]
-#User accepted conditions
-    #CommonKeywords.Wait unti element is ready then click element    Locator=//input[@name="consent"]
+User accepted conditions
+    CommonKeywords.Wait unti element is ready then click element    Locator=//input[@name="consent"]
