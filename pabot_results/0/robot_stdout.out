@@ -1,0 +1,36 @@
+==============================================================================
+Automate                                                                      
+==============================================================================
+Automate.ClassProject FutureSkill                                             
+==============================================================================
+Automate.ClassProject FutureSkill.Testcases                                   
+==============================================================================
+Automate.ClassProject FutureSkill.Testcases.RegisTestcases                    
+==============================================================================
+  
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  H:\GIT\LearningRobot\ClassProjectRobotframework\Automate\ClassProject_FutureSkill\Testcases\RegisTestcases.robot:7
+      Open Browser    ${BaseURL}    browser=http://localhost:4444/
+      |  ${BaseURL} = https://futureskill.co/ (str)
+______________________________________________________________________________
+As a user, I want to Register and then have oth                       | FAIL |
+Parent suite setup failed:
+ValueError: http://localhost:4444/ is not a supported browser.
+------------------------------------------------------------------------------
+Automate.ClassProject FutureSkill.Testcases.RegisTestcases            | FAIL |
+Suite setup failed:
+ValueError: http://localhost:4444/ is not a supported browser.
+
+1 test, 0 passed, 1 failed
+==============================================================================
+Automate.ClassProject FutureSkill.Testcases                           | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Automate.ClassProject FutureSkill                                     | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Automate                                                              | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  H:\GIT\LearningRobot\ClassProjectRobotframework\pabot_results\0\output.xml

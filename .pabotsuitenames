@@ -1,0 +1,5 @@
+datasources:5c7cb1eb6152d899230a14ee7f8e90af1d5e5381
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:9acdbf79578d4132648368cb901e035e43b41bf3
+--test Automate.ClassProject FutureSkill.Testcases.RegisTestcases.As a user, I want to Register and then have oth
